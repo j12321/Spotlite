@@ -34,3 +34,5 @@ The pipeline will automatically execute all module:
    - Sentiment analysis
    - Keyword extraction
    - Summarization
+
+Sample output json files are listed in sample_out folder.
