@@ -31,9 +31,8 @@ This project implements an end-to-end NLP pipeline for analyzing text reviews. I
    
 
 The pipeline will automatically execute all module:
-
-      - Data preprocessing
-      - Aspect detection
-      - Sentiment analysis
-      - Keyword extraction
-      - Summarization
+   - Data preprocessing
+   - Aspect detection
+   - Sentiment analysis
+   - Keyword extraction
+   - Summarization
