@@ -1,0 +1,60 @@
+{
+  "aspects": [
+    {
+      "aspect": "food",
+      "sentiment": 3.86,
+      "keywords": [
+        "fresh seafood",
+        "food court",
+        "scallop aguachile",
+        "octopus tacos",
+        "fish tacos"
+      ]
+    },
+    {
+      "aspect": "waiting_time",
+      "sentiment": 3.491,
+      "keywords": [
+        "wait time",
+        "worth wait",
+        "time wait",
+        "wait time wait",
+        "5 wait time"
+      ]
+    },
+    {
+      "aspect": "price",
+      "sentiment": 3.47,
+      "keywords": [
+        "type lunch price",
+        "$30–50",
+        "dinner price",
+        "price person",
+        "lunch price"
+      ]
+    },
+    {
+      "aspect": "environment",
+      "sentiment": 3.326,
+      "keywords": [
+        "parking space",
+        "parking options",
+        "parking lot",
+        "plenty parking",
+        "Noise Level: moderate noise"
+      ]
+    },
+    {
+      "aspect": "service",
+      "sentiment": 3.48,
+      "keywords": [
+        "service dine",
+        "service dine meal",
+        "food service",
+        "service meal",
+        "meal type lunch service"
+      ]
+    }
+  ],
+  "restaurant_summary": " Holbox is one of L.A.’s most remarkable dining experiences . Exceptional service and a relaxed, elegant atmosphere make Holbox a remarkable dining experience . Recommended dishes: Live Urchin & Scallop, Wood Grilled Whole Branzino, Smoked Kanpachi Taco, Oysters on the Half Shell ."
+}

@@ -1,0 +1,60 @@
+{
+  "aspects": [
+    {
+      "aspect": "food",
+      "sentiment": 3.632,
+      "keywords": [
+        "fantastic food",
+        "good food",
+        "delicious 😋",
+        "spicy hot pot",
+        "some food"
+      ]
+    },
+    {
+      "aspect": "environment",
+      "sentiment": 3.882,
+      "keywords": [
+        "parking lot",
+        "clean places",
+        "awesome clean places",
+        "small space",
+        "decent atmosphere"
+      ]
+    },
+    {
+      "aspect": "service",
+      "sentiment": 3.958,
+      "keywords": [
+        "service dine",
+        "good service",
+        "service attitude",
+        "nice service",
+        "food service"
+      ]
+    },
+    {
+      "aspect": "waiting_time",
+      "sentiment": 2.787,
+      "keywords": [
+        "busy tables",
+        "minutes buzzer rest",
+        "minutes buzzer",
+        "fast turnover",
+        "20 minutes"
+      ]
+    },
+    {
+      "aspect": "price",
+      "sentiment": 4.015,
+      "keywords": [
+        "price person",
+        "$20–30",
+        "hell price",
+        "special marinated, fair price",
+        "fair price"
+      ]
+    }
+  ],
+  "restaurant_summary": " YGF Malatang serves real, authentic Asian-style spicy hot pot that’s super popular among young Asians . The food is good and the service is decent, and the atmosphere is nice . Broth was rich and complex, ingredients were fresh and plentiful, and service was quick and friendly ."
+}
