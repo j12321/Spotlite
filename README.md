@@ -35,4 +35,4 @@ The pipeline will automatically execute all module:
    - Keyword extraction
    - Summarization
 
-Sample output json files are listed in sample_out folder.
+Sample output json files are listed in sample out folder.
