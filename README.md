@@ -16,26 +16,26 @@ This project implements an end-to-end NLP pipeline for analyzing text reviews. I
 
 2. **Install Dependencies**
 
-  Install all required packages:
+   Install all required packages:
 
-  ```bash
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3. **Run the Main Pipeline**
 
-  Run the main script with an input data file and an output file path:
+   Run the main script with an input data file and an output file path:
 
-  ```bash
-  python main.py <data_filepath> <output_filepath>
+   ```bash
+   python main.py <data_filepath> <output_filepath>
 
-  The pipeline will automatically execute all modules in order:
+   The pipeline will automatically execute all modules in order:
 
-    Data preprocessing
+    * Data preprocessing
     
-    Aspect detection
+    * Aspect detection
     
-    Sentiment analysis
+    * Sentiment analysis
     
-    Keyword extraction
+    * Keyword extraction
     
-    Summarization
+    * Summarization
