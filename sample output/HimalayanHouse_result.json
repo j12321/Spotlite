@@ -1,0 +1,60 @@
+{
+  "aspects": [
+    {
+      "aspect": "food",
+      "sentiment": 3.898,
+      "keywords": [
+        "garlic naan",
+        "vegetarian offerings",
+        "dishes garlic naan",
+        "vegetarian selection",
+        "naan chicken"
+      ]
+    },
+    {
+      "aspect": "service",
+      "sentiment": 3.829,
+      "keywords": [
+        "service dine",
+        "service dine meal",
+        "service meal type",
+        "service meal",
+        "service dine price"
+      ]
+    },
+    {
+      "aspect": "waiting_time",
+      "sentiment": 3.671,
+      "keywords": [
+        "time wait",
+        "wait time",
+        "wait recommendation vegetarians",
+        "time wait recommendation",
+        "kid friendliness"
+      ]
+    },
+    {
+      "aspect": "price",
+      "sentiment": 3.624,
+      "keywords": [
+        "price person",
+        "$10–20",
+        "$20–30",
+        "type dinner price",
+        "dinner price person"
+      ]
+    },
+    {
+      "aspect": "environment",
+      "sentiment": 3.822,
+      "keywords": [
+        "parking space",
+        "parking options",
+        "free parking",
+        "parking lot",
+        "Noise Level: quiet, easy to talk"
+      ]
+    }
+  ],
+  "restaurant_summary": " The Himalayan is a great place to eat in LA, but what truly elevates the experience is the exceptional service, especially from our usual waitress, Anu . Food (everything I ordered) was tasty, tasty, good portion (one item fills you up) and reasonably price . The employee's attitude was unprofessional, creating a poor impression ."
+}

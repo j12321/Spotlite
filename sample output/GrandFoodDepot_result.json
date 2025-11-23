@@ -1,0 +1,60 @@
+{
+  "aspects": [
+    {
+      "aspect": "food",
+      "sentiment": 3.67,
+      "keywords": [
+        "cheese steak",
+        "fried chicken",
+        "chicken waffles",
+        "pizza depot",
+        "detroit pizza depot"
+      ]
+    },
+    {
+      "aspect": "price",
+      "sentiment": 3.354,
+      "keywords": [
+        "price person",
+        "$10–20",
+        "type dinner price",
+        "$20–30",
+        "type lunch price"
+      ]
+    },
+    {
+      "aspect": "waiting_time",
+      "sentiment": 3.735,
+      "keywords": [
+        "type breakfast",
+        "breakfast price person",
+        "breakfast price",
+        "meal type breakfast",
+        "type breakfast price"
+      ]
+    },
+    {
+      "aspect": "environment",
+      "sentiment": 3.307,
+      "keywords": [
+        "parking parking options",
+        "parking space",
+        "parking parking",
+        "dishes parking space",
+        "Noise Level: very quiet"
+      ]
+    },
+    {
+      "aspect": "service",
+      "sentiment": 3.489,
+      "keywords": [
+        "service meal type",
+        "service meal",
+        "service price person",
+        "service price",
+        "great service"
+      ]
+    }
+  ],
+  "restaurant_summary": " Banh Mi Cafe's top-of-the-food-chain grade wings were Chef's kiss . The Garlic Soy Sauce Spring Rolls were not deep fried . Food was hot & ready in minutes! Food was great & fresh, it wasn’t even a long wait . Atmosphere is to go only for vegetarians ."
+}

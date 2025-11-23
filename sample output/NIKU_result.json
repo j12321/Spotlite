@@ -1,0 +1,60 @@
+{
+  "aspects": [
+    {
+      "aspect": "food",
+      "sentiment": 3.887,
+      "keywords": [
+        "crab legs",
+        "king crab",
+        "king crab snow",
+        "a5 wagyu",
+        "dishes buffet"
+      ]
+    },
+    {
+      "aspect": "waiting_time",
+      "sentiment": 3.551,
+      "keywords": [
+        "wait time",
+        "5 reservation",
+        "reservation reservations",
+        "a reservation",
+        "reservation reservation"
+      ]
+    },
+    {
+      "aspect": "price",
+      "sentiment": 3.4,
+      "keywords": [
+        "price person",
+        "$100",
+        "dinner price",
+        "$100+ atmosphere",
+        "type dinner price"
+      ]
+    },
+    {
+      "aspect": "environment",
+      "sentiment": 3.527,
+      "keywords": [
+        "parking options",
+        "parking space",
+        "plenty parking parking",
+        "valet parking",
+        "Noise Level: quiet, easy to talk"
+      ]
+    },
+    {
+      "aspect": "service",
+      "sentiment": 3.936,
+      "keywords": [
+        "service dine meal",
+        "service dine",
+        "our server",
+        "great service",
+        "food service"
+      ]
+    }
+  ],
+  "restaurant_summary": " The service was impeccable, the food was top notch and the ambience was a very upscale date night vibe . Everything was superb, can you believe this is an AYCE Wagyu restaurant! The food was very low quality, the service was super slow, and the price was really too high for what you get ."
+}

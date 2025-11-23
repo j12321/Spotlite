@@ -1,0 +1,60 @@
+{
+  "aspects": [
+    {
+      "aspect": "food",
+      "sentiment": 3.828,
+      "keywords": [
+        "monarca pasta",
+        "pasta grill",
+        "pasta chicken",
+        "chicken fettuccine",
+        "recommendation vegetarians"
+      ]
+    },
+    {
+      "aspect": "waiting_time",
+      "sentiment": 3.198,
+      "keywords": [
+        "time wait",
+        "3 wait time",
+        "wait time",
+        "time wait parking",
+        "wait parking space"
+      ]
+    },
+    {
+      "aspect": "price",
+      "sentiment": 3.701,
+      "keywords": [
+        "$10–20",
+        "price person",
+        "$10–20 atmosphere",
+        "lunch price person",
+        "lunch price"
+      ]
+    },
+    {
+      "aspect": "environment",
+      "sentiment": 3.491,
+      "keywords": [
+        "parking parking options",
+        "parking options",
+        "free parking lot",
+        "time wait parking",
+        "wait parking space"
+      ]
+    },
+    {
+      "aspect": "service",
+      "sentiment": 3.851,
+      "keywords": [
+        "service meal type",
+        "service dine",
+        "service dine meal",
+        "service meal",
+        "service price"
+      ]
+    }
+  ],
+  "restaurant_summary": " Monarca Pasta & Grill is a great choice for any occasion . Pasta Chicken Fettuccine is delicious! Prices are good as well! The best Meal type Dinner Price per person $10–20 ."
+}
